@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.70537912669917,36.31784087412046]},"properties":{"population":3795,"geoid":"16000US0602700","name":"Armona, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.11600935424656,36.03119044523843]},"properties":{"population":12923,"geoid":"16000US0603302","name":"Avenal, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.56111254490308,36.08271512088966]},"properties":{"population":22301,"geoid":"16000US0616224","name":"Corcoran, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.70746695564672,36.3438978188425]},"properties":{"population":586,"geoid":"16000US0630686","name":"Grangeville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.65384874541598,36.32669747434851]},"properties":{"population":55893,"geoid":"16000US0631960","name":"Hanford, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.72077023669789,36.40259597084369]},"properties":{"population":30,"geoid":"16000US0632156","name":"Hardwick, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.63702902406018,36.30296875312156]},"properties":{"population":1643,"geoid":"16000US0634281","name":"Home Garden, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.96285155263634,36.00898607939434]},"properties":{"population":1395,"geoid":"16000US0638394","name":"Kettleman City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.7982528727658,36.29595538963538]},"properties":{"population":25791,"geoid":"16000US0641152","name":"Lemoore, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.90490389790223,36.2632888754021]},"properties":{"population":7063,"geoid":"16000US0641166","name":"Lemoore Station, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.82235204668206,36.188441526032975]},"properties":{"population":878,"geoid":"16000US0675252","name":"Stratford, CA"}}
+]}

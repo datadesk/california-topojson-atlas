@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.061050073238,39.0141959426199]},"properties":{"population":3636,"geoid":"16000US0602420","name":"Arbuckle, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.00682804748236,39.00630328179303]},"properties":{"population":239,"geoid":"16000US0614554","name":"College City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.00957523183398,39.20489050875146]},"properties":{"population":5902,"geoid":"16000US0614946","name":"Colusa, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.89877663632072,39.074154609308444]},"properties":{"population":358,"geoid":"16000US0631288","name":"Grimes, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.50594513666329,39.30427260495196]},"properties":{"population":126,"geoid":"16000US0642230","name":"Lodoga, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.19467607527936,39.27707855142566]},"properties":{"population":1096,"geoid":"16000US0646338","name":"Maxwell, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.02122470727056,39.40285072066568]},"properties":{"population":297,"geoid":"16000US0658758","name":"Princeton, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.54446825812724,39.37034225830923]},"properties":{"population":136,"geoid":"16000US0675154","name":"Stonyford, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.13725377551374,39.14867947253319]},"properties":{"population":5223,"geoid":"16000US0685586","name":"Williams, CA"}}
+]}

@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.05235299263366,39.123690690258684]},"properties":{"population":7207,"geoid":"16000US0601360","name":"Alta Sierra, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.01512120970813,39.39293133405752]},"properties":{"population":20,"geoid":"16000US0624526","name":"Floriston, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.73602887190724,39.44436613622871]},"properties":{"population":0,"geoid":"16000US0630714","name":"Graniteville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.05206591093138,39.22374767390131]},"properties":{"population":12932,"geoid":"16000US0630798","name":"Grass Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.43865891562515,39.320331256337624]},"properties":{"population":73,"geoid":"16000US0638604","name":"Kingvale, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.06425922692377,39.03784878088214]},"properties":{"population":4137,"geoid":"16000US0639690","name":"Lake of the Pines, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.20028320920285,39.23499879308799]},"properties":{"population":5208,"geoid":"16000US0639885","name":"Lake Wildwood, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.02228237697625,39.25935947850414]},"properties":{"population":3128,"geoid":"16000US0650874","name":"Nevada City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1060799802434,39.37181026661352]},"properties":{"population":328,"geoid":"16000US0652246","name":"North San Juan, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1941533294575,39.19529723667261]},"properties":{"population":1424,"geoid":"16000US0656518","name":"Penn Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.13802288786417,39.234022355163745]},"properties":{"population":828,"geoid":"16000US0663106","name":"Rough and Ready, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.37866535009005,39.32478795391535]},"properties":{"population":21,"geoid":"16000US0672492","name":"Soda Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.18487186559861,39.34543985760326]},"properties":{"population":16377,"geoid":"16000US0680588","name":"Truckee, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.79049576141186,39.35915805356962]},"properties":{"population":53,"geoid":"16000US0683570","name":"Washington, CA"}}
+]}

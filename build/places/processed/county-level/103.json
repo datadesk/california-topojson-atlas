@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.20951516252374,40.25603400847177]},"properties":{"population":457,"geoid":"16000US0605276","name":"Bend, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.18199118153566,39.92819999862562]},"properties":{"population":7535,"geoid":"16000US0616322","name":"Corning, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.44616201078304,39.92835562051534]},"properties":{"population":171,"geoid":"16000US0624568","name":"Flournoy, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.14820114922617,40.06141750479382]},"properties":{"population":1259,"geoid":"16000US0629392","name":"Gerber, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.21024393423549,40.36083416571544]},"properties":{"population":3281,"geoid":"16000US0639460","name":"Lake California, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.15731230144652,40.072140988344266]},"properties":{"population":294,"geoid":"16000US0640536","name":"Las Flores, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.0981141114606,40.02700247176885]},"properties":{"population":1845,"geoid":"16000US0644140","name":"Los Molinos, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.85399123622513,40.42019052646177]},"properties":{"population":372,"geoid":"16000US0645512","name":"Manton, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.56941662472832,40.375462236272796]},"properties":{"population":292,"geoid":"16000US0647794","name":"Mineral, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.54583339358909,39.88327463073027]},"properties":{"population":105,"geoid":"16000US0656042","name":"Paskenta, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.91740920401838,40.34089227059393]},"properties":{"population":53,"geoid":"16000US0656196","name":"Paynes Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.17760869639064,40.07615734943022]},"properties":{"population":165,"geoid":"16000US0658814","name":"Proberta, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.44182461665773,40.00098749121696]},"properties":{"population":1922,"geoid":"16000US0659604","name":"Rancho Tehama Reserve, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.24127646126156,40.17343827389457]},"properties":{"population":14132,"geoid":"16000US0659892","name":"Red Bluff, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.17323375477368,39.97380130832098]},"properties":{"population":272,"geoid":"16000US0660592","name":"Richfield, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.12690083728357,40.02177619001209]},"properties":{"population":445,"geoid":"16000US0678106","name":"Tehama, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.05170620747427,39.934180285891294]},"properties":{"population":210,"geoid":"16000US0682786","name":"Vina, CA"}}
+]}

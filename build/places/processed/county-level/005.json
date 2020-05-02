@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.82324777085415,38.41898951103984]},"properties":{"population":167,"geoid":"16000US0601514","name":"Amador City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.53546105856213,38.453126140709315]},"properties":{"population":2246,"geoid":"16000US0608680","name":"Buckhorn, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.91794823575715,38.29744544544338]},"properties":{"population":526,"geoid":"16000US0608828","name":"Buena Vista, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.95391547936883,38.24421844083867]},"properties":{"population":1029,"geoid":"16000US0610042","name":"Camanche North Shore, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.98660827888872,38.2661889962298]},"properties":{"population":620,"geoid":"16000US0610044","name":"Camanche Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.85653086317784,38.43823127190875]},"properties":{"population":20,"geoid":"16000US0619976","name":"Drytown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.76050768623004,38.509115150159865]},"properties":{"population":329,"geoid":"16000US0623980","name":"Fiddletown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.94223910324828,38.36130532275394]},"properties":{"population":7439,"geoid":"16000US0636672","name":"Ione, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.77281126605135,38.34852798399029]},"properties":{"population":4694,"geoid":"16000US0636980","name":"Jackson, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.80400542869366,38.36225627776058]},"properties":{"population":300,"geoid":"16000US0646100","name":"Martell, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.66059644319643,38.40738151480127]},"properties":{"population":1730,"geoid":"16000US0657148","name":"Pine Grove, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.584763101491,38.43547979091702]},"properties":{"population":1443,"geoid":"16000US0657330","name":"Pioneer, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.85843430055488,38.47763402009859]},"properties":{"population":894,"geoid":"16000US0657834","name":"Plymouth, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.60551699866605,38.4116520691311]},"properties":{"population":1930,"geoid":"16000US0659896","name":"Red Corral, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.74746893694652,38.54542297965079]},"properties":{"population":607,"geoid":"16000US0661124","name":"River Pines, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.81062994524956,38.382696102495856]},"properties":{"population":2538,"geoid":"16000US0677392","name":"Sutter Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.63053435348152,38.44557180606196]},"properties":{"population":44,"geoid":"16000US0683094","name":"Volcano, CA"}}
+]}

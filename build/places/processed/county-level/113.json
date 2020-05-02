@@ -1,0 +1,15 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.54161924563074,38.41933339350151]},"properties":{"population":442,"geoid":"16000US0613784","name":"Clarksburg, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.73658595093764,38.55518739320132]},"properties":{"population":67988,"geoid":"16000US0618100","name":"Davis, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.97418596895147,38.89264299082469]},"properties":{"population":1278,"geoid":"16000US0620228","name":"Dunnigan, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.02404673842081,38.69341082146622]},"properties":{"population":3783,"geoid":"16000US0622846","name":"Esparto, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.19849419094155,38.82745746932674]},"properties":{"population":175,"geoid":"16000US0631540","name":"Guinda, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.71762596348033,38.79795778849957]},"properties":{"population":869,"geoid":"16000US0638800","name":"Knights Landing, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.97025342714078,38.67498822090871]},"properties":{"population":563,"geoid":"16000US0645064","name":"Madison, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.87558459178736,38.664141373014566]},"properties":{"population":1700,"geoid":"16000US0649045","name":"Monument Hills, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.75762194538397,38.537403377049294]},"properties":{"population":7379,"geoid":"16000US0681302","name":"University of California-Davis, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.55043912215915,38.55566945869231]},"properties":{"population":52826,"geoid":"16000US0684816","name":"West Sacramento, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.97354902474348,38.52763280582789]},"properties":{"population":7132,"geoid":"16000US0686034","name":"Winters, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.75592994315785,38.67160320206098]},"properties":{"population":59044,"geoid":"16000US0686328","name":"Woodland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.80931285874586,38.74050947770232]},"properties":{"population":429,"geoid":"16000US0686804","name":"Yolo, CA"}}
+]}

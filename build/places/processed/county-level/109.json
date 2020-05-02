@@ -1,0 +1,21 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.27374395142783,38.06610827335122]},"properties":{"population":1037,"geoid":"16000US0612300","name":"Cedar Ridge, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.44429022593104,37.870243698037974]},"properties":{"population":206,"geoid":"16000US0613182","name":"Chinese Camp, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.05352689673896,38.16133535905631]},"properties":{"population":108,"geoid":"16000US0614454","name":"Cold Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.40965429285413,38.03333052619822]},"properties":{"population":2217,"geoid":"16000US0614904","name":"Columbia, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.34111312790763,37.977677669005026]},"properties":{"population":2189,"geoid":"16000US0621188","name":"East Sonora, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.23941750519968,37.83254069719316]},"properties":{"population":307,"geoid":"16000US0631372","name":"Groveland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.41098673098324,37.957367209528435]},"properties":{"population":2687,"geoid":"16000US0637106","name":"Jamestown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.12854266063974,38.09568510469974]},"properties":{"population":93,"geoid":"16000US0642622","name":"Long Barn, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.17897737844842,38.056976035850624]},"properties":{"population":1133,"geoid":"16000US0648298","name":"Mi-Wuk Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.26977563095942,38.01231564465067]},"properties":{"population":3504,"geoid":"16000US0648641","name":"Mono Vista, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.3089706860019,38.00743155776048]},"properties":{"population":4283,"geoid":"16000US0656870","name":"Phoenix Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.18435735633493,37.859873753054046]},"properties":{"population":2671,"geoid":"16000US0657244","name":"Pine Mountain Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.16234753857961,38.07675992566337]},"properties":{"population":330,"geoid":"16000US0671834","name":"Sierra Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.38280840613805,37.98188761664886]},"properties":{"population":4822,"geoid":"16000US0672674","name":"Sonora, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.2616584296473,37.99176807650468]},"properties":{"population":2286,"geoid":"16000US0672772","name":"Soulsbyville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.01052455377584,38.198662826652765]},"properties":{"population":5,"geoid":"16000US0675322","name":"Strawberry, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.24274480669068,37.9615118237991]},"properties":{"population":1577,"geoid":"16000US0680763","name":"Tuolumne City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.45029055154811,38.00034358375037]},"properties":{"population":941,"geoid":"16000US0680896","name":"Tuttletown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.23394537997649,38.03839774053977]},"properties":{"population":2523,"geoid":"16000US0680966","name":"Twain Harte, CA"}}
+]}

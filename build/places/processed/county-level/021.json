@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.18975722779017,39.63318035890735]},"properties":{"population":292,"geoid":"16000US0602910","name":"Artois, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5375317672719,39.60013713553495]},"properties":{"population":191,"geoid":"16000US0622006","name":"Elk Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.01253583187564,39.742230543798755]},"properties":{"population":2224,"geoid":"16000US0631890","name":"Hamilton City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.18543329713843,39.7461037322135]},"properties":{"population":7541,"geoid":"16000US0654274","name":"Orland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1994769937936,39.5149043557648]},"properties":{"population":6022,"geoid":"16000US0685684","name":"Willows, CA"}}
+]}

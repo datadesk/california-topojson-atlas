@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.25847716490736,38.179471350778385]},"properties":{"population":20306,"geoid":"16000US0601640","name":"American Canyon, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.45124604905766,38.57761221867613]},"properties":{"population":3424,"geoid":"16000US0602168","name":"Angwin, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.58242108778465,38.581794757227726]},"properties":{"population":5285,"geoid":"16000US0609892","name":"Calistoga, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46792352707088,38.536052717462816]},"properties":{"population":906,"geoid":"16000US0618324","name":"Deer Park, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.1945115375423,38.44631738450497]},"properties":{"population":151,"geoid":"16000US0649432","name":"Moskowite Corner, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.30164867395376,38.29824827122515]},"properties":{"population":79516,"geoid":"16000US0650258","name":"Napa, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.40677286726887,38.43837263277757]},"properties":{"population":188,"geoid":"16000US0653196","name":"Oakville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.42313635839693,38.456785298671754]},"properties":{"population":72,"geoid":"16000US0663400","name":"Rutherford, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.46760516951603,38.50457555678129]},"properties":{"population":6079,"geoid":"16000US0664140","name":"St. Helena, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.25553982111865,38.35363734547556]},"properties":{"population":937,"geoid":"16000US0671927","name":"Silverado Resort, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.36706597923478,38.39637743355356]},"properties":{"population":2982,"geoid":"16000US0686930","name":"Yountville, CA"}}
+]}

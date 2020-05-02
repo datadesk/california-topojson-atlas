@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.64042097461152,36.8771491373608]},"properties":{"population":2553,"geoid":"16000US0602812","name":"Aromas, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.39710973285897,36.85630433156732]},"properties":{"population":37835,"geoid":"16000US0634120","name":"Hollister, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.36228172423593,36.808240612102075]},"properties":{"population":3062,"geoid":"16000US0660706","name":"Ridgemark, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.53823809861753,36.845596251338904]},"properties":{"population":2106,"geoid":"16000US0668014","name":"San Juan Bautista, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.31060955649677,36.79042885456191]},"properties":{"population":662,"geoid":"16000US0680364","name":"Tres Pinos, CA"}}
+]}

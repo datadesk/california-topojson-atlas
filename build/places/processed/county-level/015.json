@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.15939005741514,41.752490921488445]},"properties":{"population":2042,"geoid":"16000US0606150","name":"Bertsch-Oceanview, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.19932511902826,41.75436838284379]},"properties":{"population":6681,"geoid":"16000US0617022","name":"Crescent City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.15253639240855,41.86628157918509]},"properties":{"population":830,"geoid":"16000US0625086","name":"Fort Dick, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.97309694053428,41.84289040189532]},"properties":{"population":620,"geoid":"16000US0629154","name":"Gasquet, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.06611316895534,41.79366426919439]},"properties":{"population":433,"geoid":"16000US0633935","name":"Hiouchi, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.00642718438124,41.53220134829196]},"properties":{"population":617,"geoid":"16000US0638702","name":"Klamath, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.14931954178111,41.924959350125825]},"properties":{"population":632,"geoid":"16000US0672380","name":"Smith River, CA"}}
+]}

@@ -1,0 +1,18 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.70869966832981,37.550001398477846]},"properties":{"population":67,"geoid":"16000US0603026","name":"Aspen Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.48444728601028,37.81892885864083]},"properties":{"population":313,"geoid":"16000US0605346","name":"Benton, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.21228420590778,38.25614531961182]},"properties":{"population":464,"geoid":"16000US0608240","name":"Bridgeport, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.3750840911411,37.510496244715014]},"properties":{"population":999,"geoid":"16000US0612594","name":"Chalfant, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.51600212435257,38.583419270849916]},"properties":{"population":515,"geoid":"16000US0614484","name":"Coleville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.74642081841876,37.56929387748314]},"properties":{"population":889,"geoid":"16000US0617372","name":"Crowley Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.10216020926103,37.76772303843421]},"properties":{"population":508,"geoid":"16000US0637624","name":"June Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.12212685811946,37.9546431564106]},"properties":{"population":89,"geoid":"16000US0640998","name":"Lee Vining, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.79099466085331,37.57267609954173]},"properties":{"population":0,"geoid":"16000US0644830","name":"McGee Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.99147303495847,37.6272597178302]},"properties":{"population":8091,"geoid":"16000US0645358","name":"Mammoth Lakes, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.14660690278669,38.041184344483106]},"properties":{"population":98,"geoid":"16000US0648602","name":"Mono City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.60221364651069,37.482854098496055]},"properties":{"population":186,"geoid":"16000US0655528","name":"Paradise, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.67583713374223,37.56937627084489]},"properties":{"population":80,"geoid":"16000US0676040","name":"Sunny Slopes, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.64265861668443,37.50605901138449]},"properties":{"population":218,"geoid":"16000US0677430","name":"Swall Meadows, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.52739604091131,38.65880885890572]},"properties":{"population":234,"geoid":"16000US0679030","name":"Topaz, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.45817823550748,38.534051974814254]},"properties":{"population":863,"geoid":"16000US0683262","name":"Walker, CA"}}
+]}

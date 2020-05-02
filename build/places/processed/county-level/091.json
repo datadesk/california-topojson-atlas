@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.84112590987839,39.4666607051461]},"properties":{"population":30,"geoid":"16000US0600982","name":"Alleghany, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.4435431800409,39.66329379093167]},"properties":{"population":216,"geoid":"16000US0610004","name":"Calpine, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.82125877459221,39.57006601775088]},"properties":{"population":114,"geoid":"16000US0619794","name":"Downieville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.88810073562787,39.545768923886925]},"properties":{"population":29,"geoid":"16000US0630420","name":"Goodyears Bar, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.24481111282647,39.67685455658671]},"properties":{"population":1149,"geoid":"16000US0644364","name":"Loyalton, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.99968054441015,39.427843573836874]},"properties":{"population":167,"geoid":"16000US0657036","name":"Pike, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.43561679010251,39.62650449604726]},"properties":{"population":77,"geoid":"16000US0670336","name":"Sattley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.21538892400172,39.642592710602266]},"properties":{"population":299,"geoid":"16000US0671774","name":"Sierra Brooks, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.62965557234021,39.57401486540632]},"properties":{"population":152,"geoid":"16000US0671778","name":"Sierra City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.36378610418002,39.57504389600608]},"properties":{"population":103,"geoid":"16000US0671848","name":"Sierraville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.01628638908198,39.52369274877985]},"properties":{"population":187,"geoid":"16000US0682334","name":"Verdi, CA"}}
+]}

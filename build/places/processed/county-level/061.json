@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.80327618026607,39.21380275267989]},"properties":{"population":485,"geoid":"16000US0601276","name":"Alta, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.07698541921194,38.890909512326466]},"properties":{"population":13946,"geoid":"16000US0603204","name":"Auburn, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.07664496653139,39.23472286820377]},"properties":{"population":463,"geoid":"16000US0611418","name":"Carnelian Bay, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.95428964371624,39.094461944490405]},"properties":{"population":2029,"geoid":"16000US0614498","name":"Colfax, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.1089326410187,39.19049721517]},"properties":{"population":786,"geoid":"16000US0619455","name":"Dollar Point, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.8344755234803,39.208008026879135]},"properties":{"population":196,"geoid":"16000US0620298","name":"Dutch Flat, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.83135156784573,39.00528691839536]},"properties":{"population":1546,"geoid":"16000US0624834","name":"Foresthill, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.17144650824433,38.760032824511065]},"properties":{"population":22439,"geoid":"16000US0630693","name":"Granite Bay, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.02010070889405,39.2490278279841]},"properties":{"population":2833,"geoid":"16000US0638548","name":"Kings Beach, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.29161288691915,38.87590636017698]},"properties":{"population":46939,"geoid":"16000US0641474","name":"Lincoln, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.19546959559891,38.80937128220764]},"properties":{"population":6753,"geoid":"16000US0643140","name":"Loomis, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.03038040561518,39.002936982743314]},"properties":{"population":3460,"geoid":"16000US0646632","name":"Meadow Vista, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.13182165435444,38.86766419191772]},"properties":{"population":1167,"geoid":"16000US0651000","name":"Newcastle, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.08207950575118,38.93057117960405]},"properties":{"population":13707,"geoid":"16000US0651637","name":"North Auburn, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1699616588704,38.84783929396942]},"properties":{"population":925,"geoid":"16000US0656546","name":"Penryn, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.24885488672788,38.80753871488616]},"properties":{"population":63127,"geoid":"16000US0662364","name":"Rocklin, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.31795927479985,38.769105201004194]},"properties":{"population":133049,"geoid":"16000US0662938","name":"Roseville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.3559658683351,38.96900021563868]},"properties":{"population":1250,"geoid":"16000US0671414","name":"Sheridan, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.16134384942153,39.15043009356884]},"properties":{"population":1222,"geoid":"16000US0676015","name":"Sunnyside-Tahoe City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.05349911762247,39.248308742136835]},"properties":{"population":1288,"geoid":"16000US0677700","name":"Tahoe Vista, CA"}}
+]}

@@ -1,0 +1,20 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.11589873459702,37.69416886689739]},"properties":{"population":23635,"geoid":"16000US0602980","name":"Ashland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.29885819432565,37.86645347473781]},"properties":{"population":120926,"geoid":"16000US0606000","name":"Berkeley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.063197021419,37.709155995936484]},"properties":{"population":63288,"geoid":"16000US0611964","name":"Castro Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.10375565433269,37.67915888103329]},"properties":{"population":16387,"geoid":"16000US0612902","name":"Cherryland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.89622001374599,37.71614568125704]},"properties":{"population":59172,"geoid":"16000US0620018","name":"Dublin, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.29936019029977,37.838792340931825]},"properties":{"population":11724,"geoid":"16000US0622594","name":"Emeryville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.04795035263507,37.67597666744991]},"properties":{"population":10299,"geoid":"16000US0623350","name":"Fairview, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.000981290607,37.52408276920231]},"properties":{"population":233083,"geoid":"16000US0626000","name":"Fremont, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.10458674239173,37.62728524832282]},"properties":{"population":158241,"geoid":"16000US0633000","name":"Hayward, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.76132304759854,37.68563190619465]},"properties":{"population":89027,"geoid":"16000US0641992","name":"Livermore, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.03116724725332,37.52040813000851]},"properties":{"population":46276,"geoid":"16000US0650916","name":"Newark, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.22454660312363,37.77060641247399]},"properties":{"population":421042,"geoid":"16000US0653000","name":"Oakland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.23002539685766,37.82254356094391]},"properties":{"population":11308,"geoid":"16000US0656938","name":"Piedmont, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.88049893891473,37.666326361571436]},"properties":{"population":80847,"geoid":"16000US0657792","name":"Pleasanton, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.16303254017265,37.70460454733765]},"properties":{"population":90103,"geoid":"16000US0668084","name":"San Leandro, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.13475530063924,37.67374161842995]},"properties":{"population":25388,"geoid":"16000US0668112","name":"San Lorenzo, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.88534872602482,37.58935114604995]},"properties":{"population":962,"geoid":"16000US0677042","name":"Sunol, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.01871059702249,37.6029550834724]},"properties":{"population":74601,"geoid":"16000US0681204","name":"Union City, CA"}}
+]}

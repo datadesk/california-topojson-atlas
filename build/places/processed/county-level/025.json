@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.73048372748036,33.354962122015046]},"properties":{"population":415,"geoid":"16000US0607372","name":"Bombay Beach, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.5287952114173,32.977955377216986]},"properties":{"population":26009,"geoid":"16000US0608058","name":"Brawley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.4943609078032,32.6849021858634]},"properties":{"population":39934,"geoid":"16000US0609710","name":"Calexico, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.51467014809522,33.125276919248584]},"properties":{"population":7458,"geoid":"16000US0609878","name":"Calipatria, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.03942332590456,33.404111362006034]},"properties":{"population":619,"geoid":"16000US0619024","name":"Desert Shores, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.55864338021662,32.78676283702753]},"properties":{"population":43898,"geoid":"16000US0621782","name":"El Centro, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.52036272437738,32.73182583250065]},"properties":{"population":4686,"geoid":"16000US0633084","name":"Heber, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.37806753116722,32.812926457815415]},"properties":{"population":6458,"geoid":"16000US0634246","name":"Holtville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.57223282624004,32.83881898517654]},"properties":{"population":17175,"geoid":"16000US0636280","name":"Imperial, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.5144396329875,33.23870794666251]},"properties":{"population":515,"geoid":"16000US0651392","name":"Niland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.00187829692612,32.7431248519886]},"properties":{"population":58,"geoid":"16000US0653378","name":"Ocotillo, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-114.72721473457582,33.42790713653951]},"properties":{"population":85,"geoid":"16000US0655422","name":"Palo Verde, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.96095092516742,33.29943348996373]},"properties":{"population":5611,"geoid":"16000US0664294","name":"Salton City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.01137558979526,33.375844891339526]},"properties":{"population":355,"geoid":"16000US0664308","name":"Salton Sea Beach, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.68411237367307,32.78981968802635]},"properties":{"population":1699,"geoid":"16000US0670798","name":"Seeley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.62183608512407,33.03838053898903]},"properties":{"population":2643,"geoid":"16000US0684606","name":"Westmorland, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-114.6377978511516,32.737183358261184]},"properties":{"population":210,"geoid":"16000US0686020","name":"Winterhaven, CA"}}
+]}

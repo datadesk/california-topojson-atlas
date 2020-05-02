@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.36345719842882,41.44674649999087]},"properties":{"population":47,"geoid":"16000US0611481","name":"Carrick, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.92055037344548,41.96438624663111]},"properties":{"population":868,"geoid":"16000US0619584","name":"Dorris, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.27149585760027,41.23162703924144]},"properties":{"population":1589,"geoid":"16000US0620242","name":"Dunsmuir, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.42607750672941,41.46216857886366]},"properties":{"population":40,"geoid":"16000US0621530","name":"Edgewood, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.89448085162168,41.458199514992565]},"properties":{"population":735,"geoid":"16000US0622972","name":"Etna, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.84106486577988,41.60845235957916]},"properties":{"population":832,"geoid":"16000US0625128","name":"Fort Jones, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.52152565513333,41.513700911759045]},"properties":{"population":46,"geoid":"16000US0629252","name":"Gazelle, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.91856128129616,41.54701804998241]},"properties":{"population":283,"geoid":"16000US0631134","name":"Greenview, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.52601283099764,41.640584582597334]},"properties":{"population":477,"geoid":"16000US0631246","name":"Grenada, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.38916368161958,41.810369012094604]},"properties":{"population":810,"geoid":"16000US0632030","name":"Happy Camp, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.55962161492624,41.907953915827996]},"properties":{"population":215,"geoid":"16000US0634694","name":"Hornbrook, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.13607084736455,41.25406152855495]},"properties":{"population":1072,"geoid":"16000US0644784","name":"McCloud, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.00580020348445,41.82562849426329]},"properties":{"population":105,"geoid":"16000US0644812","name":"Macdoel, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.53032078980289,41.727543336533486]},"properties":{"population":1517,"geoid":"16000US0648690","name":"Montague, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.00819524568975,41.78545648436129]},"properties":{"population":78,"geoid":"16000US0649768","name":"Mount Hebron, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.31503936656699,41.32069244428678]},"properties":{"population":3284,"geoid":"16000US0649852","name":"Mount Shasta, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.91476239885984,41.58194824317385]},"properties":{"population":18,"geoid":"16000US0678176","name":"Tennant, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.4752206413652,41.953293776663116]},"properties":{"population":838,"geoid":"16000US0680686","name":"Tulelake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.38157659028717,41.412823485604456]},"properties":{"population":2677,"geoid":"16000US0683850","name":"Weed, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.63114807703548,41.729255693931016]},"properties":{"population":7551,"geoid":"16000US0686944","name":"Yreka, CA"}}
+]}

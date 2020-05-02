@@ -1,0 +1,17 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.63307894568405,38.95894108105502]},"properties":{"population":15323,"geoid":"16000US0613945","name":"Clearlake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.6592866115714,39.02183123433743]},"properties":{"population":2279,"geoid":"16000US0613966","name":"Clearlake Oaks, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.72067460316539,38.95119427512272]},"properties":{"population":3933,"geoid":"16000US0613985","name":"Clearlake Riviera, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.72294930165688,38.83559523070212]},"properties":{"population":920,"geoid":"16000US0614302","name":"Cobb, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.55051038781906,38.80030506987648]},"properties":{"population":6044,"geoid":"16000US0633549","name":"Hidden Valley Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.83276134015325,38.97046861748028]},"properties":{"population":3332,"geoid":"16000US0638044","name":"Kelseyville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.92179548539305,39.03919322299502]},"properties":{"population":4855,"geoid":"16000US0639710","name":"Lakeport, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.60851684565309,38.91182847966171]},"properties":{"population":1595,"geoid":"16000US0644350","name":"Lower Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.77604213830598,39.06972848998537]},"properties":{"population":2956,"geoid":"16000US0644406","name":"Lucerne, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.62210285573059,38.751877990268625]},"properties":{"population":757,"geoid":"16000US0647332","name":"Middletown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.85248117876803,39.12663833830062]},"properties":{"population":2393,"geoid":"16000US0651294","name":"Nice, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.9054114468207,39.088290295219636]},"properties":{"population":3141,"geoid":"16000US0651990","name":"North Lakeport, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.77947556667937,39.00243109921662]},"properties":{"population":941,"geoid":"16000US0672478","name":"Soda Bay, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.59676442116192,39.07767656849752]},"properties":{"population":1081,"geoid":"16000US0673690","name":"Spring Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.90525495715931,39.165274756682585]},"properties":{"population":1050,"geoid":"16000US0681358","name":"Upper Lake, CA"}}
+]}

@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.13360244810384,41.12513334581411]},"properties":{"population":178,"geoid":"16000US0606336","name":"Bieber, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.0531270644907,40.302283656099405]},"properties":{"population":226,"geoid":"16000US0613910","name":"Clear Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.1172873047117,40.02748545510373]},"properties":{"population":622,"geoid":"16000US0619878","name":"Doyle, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.13977589108055,40.141883652755446]},"properties":{"population":1353,"geoid":"16000US0633336","name":"Herlong, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.53354570485894,40.28090939703956]},"properties":{"population":1278,"geoid":"16000US0637134","name":"Janesville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.58463147408514,40.378927807148756]},"properties":{"population":1185,"geoid":"16000US0637484","name":"Johnstonville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.38098595087952,40.3877246095278]},"properties":{"population":178,"geoid":"16000US0641782","name":"Litchfield, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.17807277463274,40.89311316194872]},"properties":{"population":18,"geoid":"16000US0641908","name":"Little Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.36861198546363,40.16332573383069]},"properties":{"population":181,"geoid":"16000US0647472","name":"Milford, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1815790705537,41.09664044187251]},"properties":{"population":20,"geoid":"16000US0652610","name":"Nubieber, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.17778425194837,40.140133351076685]},"properties":{"population":604,"geoid":"16000US0656140","name":"Patton Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.78625979689002,40.65566443605196]},"properties":{"population":110,"geoid":"16000US0673554","name":"Spaulding, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.6403236768848,40.42687951003437]},"properties":{"population":15216,"geoid":"16000US0677364","name":"Susanville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.00447912138993,40.30489630753499]},"properties":{"population":1545,"geoid":"16000US0684928","name":"Westwood, CA"}}
+]}

@@ -1,0 +1,14 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.50820205103355,40.811028168019455]},"properties":{"population":338,"geoid":"16000US0609150","name":"Burnt Ranch, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.71360082546414,41.08026500710406]},"properties":{"population":186,"geoid":"16000US0614406","name":"Coffee Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.92606807852506,40.66362579926276]},"properties":{"population":668,"geoid":"16000US0619724","name":"Douglas City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.12991566955992,40.5610232916552]},"properties":{"population":2421,"geoid":"16000US0632562","name":"Hayfork, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.46883461330907,40.62617992154538]},"properties":{"population":165,"geoid":"16000US0636098","name":"Hyampom, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.06144774404774,40.72741239504635]},"properties":{"population":688,"geoid":"16000US0637596","name":"Junction City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.82251335621682,40.69693243934496]},"properties":{"population":1340,"geoid":"16000US0641278","name":"Lewiston, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.49176571547618,40.4324922634486]},"properties":{"population":432,"geoid":"16000US0645092","name":"Mad River, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.34827424893646,40.29426324194357]},"properties":{"population":145,"geoid":"16000US0663386","name":"Ruth, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.70832637687504,40.98406701603942]},"properties":{"population":161,"geoid":"16000US0680476","name":"Trinity Center, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.51320686614388,40.878916050264806]},"properties":{"population":279,"geoid":"16000US0680483","name":"Trinity Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.9273805042424,40.74880069051588]},"properties":{"population":3240,"geoid":"16000US0683794","name":"Weaverville, CA"}}
+]}

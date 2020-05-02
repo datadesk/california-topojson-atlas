@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.35424190997138,39.10957104981485]},"properties":{"population":1039,"geoid":"16000US0604576","name":"Beale AFB, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.04873589978344,39.45204856513214]},"properties":{"population":162,"geoid":"16000US0610676","name":"Camptonville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.26324351833266,39.46461819109103]},"properties":{"population":864,"geoid":"16000US0612612","name":"Challenge-Brownsville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.2127650068288,39.36566974690845]},"properties":{"population":662,"geoid":"16000US0619416","name":"Dobbins, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.54216418410785,39.124139858508265]},"properties":{"population":19314,"geoid":"16000US0641572","name":"Linda, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.40382883711969,39.320322027335784]},"properties":{"population":3088,"geoid":"16000US0642412","name":"Loma Rica, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.58349131268443,39.15177868211031]},"properties":{"population":12282,"geoid":"16000US0646170","name":"Marysville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.55493122560621,39.08167322350565]},"properties":{"population":13309,"geoid":"16000US0653714","name":"Olivehurst, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.55795372575953,38.992334126819536]},"properties":{"population":7367,"geoid":"16000US0657829","name":"Plumas Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.29291668937601,39.2052728813898]},"properties":{"population":163,"geoid":"16000US0672282","name":"Smartsville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.39000775511356,39.02874619735571]},"properties":{"population":3747,"geoid":"16000US0685012","name":"Wheatland, CA"}}
+]}

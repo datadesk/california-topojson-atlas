@@ -1,0 +1,15 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.94942654484424,41.19642392499312]},"properties":{"population":201,"geoid":"16000US0600310","name":"Adin, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.55136232731286,41.49027326914877]},"properties":{"population":2577,"geoid":"16000US0601444","name":"Alturas, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.66044965538201,41.41165165840896]},"properties":{"population":488,"geoid":"16000US0609834","name":"California Pines, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.88434138903571,41.44771855492308]},"properties":{"population":497,"geoid":"16000US0610732","name":"Canby, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.17478290342585,41.52804432103771]},"properties":{"population":360,"geoid":"16000US0612328","name":"Cedarville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.55067270718422,41.50888687546612]},"properties":{"population":135,"geoid":"16000US0617995","name":"Daphnedale Park, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.11460394310235,41.31902596285046]},"properties":{"population":81,"geoid":"16000US0620424","name":"Eagleville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.15889703387846,41.862980205934036]},"properties":{"population":181,"geoid":"16000US0625030","name":"Fort Bidwell, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.2255062196196,41.646002377514314]},"properties":{"population":59,"geoid":"16000US0639472","name":"Lake City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.50327475680578,41.22533842769852]},"properties":{"population":0,"geoid":"16000US0641390","name":"Likely, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.1545101176941,41.21000899370466]},"properties":{"population":76,"geoid":"16000US0643126","name":"Lookout, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.36744158687719,41.88982659929806]},"properties":{"population":342,"geoid":"16000US0651042","name":"Newell, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.30096361969727,41.9872694737724]},"properties":{"population":71,"geoid":"16000US0651168","name":"New Pine Creek, CA"}}
+]}

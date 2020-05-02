@@ -1,0 +1,18 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.55013719596467,38.07068932474689]},"properties":{"population":3811,"geoid":"16000US0602112","name":"Angels, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.35462666312007,38.24234206429841]},"properties":{"population":2605,"geoid":"16000US0602770","name":"Arnold, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.3790712185392,38.19386009353875]},"properties":{"population":559,"geoid":"16000US0603316","name":"Avery, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.62767678856873,37.93652923263421]},"properties":{"population":4299,"geoid":"16000US0616210","name":"Copperopolis, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.27065308704849,38.29486408671761]},"properties":{"population":205,"geoid":"16000US0619570","name":"Dorrington, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.4051974611026,38.16635765746015]},"properties":{"population":1516,"geoid":"16000US0624897","name":"Forest Meadows, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.70611600334082,38.30564224394168]},"properties":{"population":637,"geoid":"16000US0648480","name":"Mokelumne Hill, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.51189754697936,38.250857910843756]},"properties":{"population":1306,"geoid":"16000US0649628","name":"Mountain Ranch, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.43475129575879,38.14469939520081]},"properties":{"population":2100,"geoid":"16000US0650034","name":"Murphys, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.49100534936855,38.31683561601505]},"properties":{"population":283,"geoid":"16000US0659220","name":"Rail Road Flat, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.85698447359397,38.1248372661522]},"properties":{"population":7035,"geoid":"16000US0659426","name":"Rancho Calaveras, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.67629505547411,38.19115687743897]},"properties":{"population":3085,"geoid":"16000US0664420","name":"San Andreas, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.45639460824621,38.07398902817359]},"properties":{"population":183,"geoid":"16000US0681652","name":"Vallecito, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.81501967687423,38.18371401933312]},"properties":{"population":3428,"geoid":"16000US0681890","name":"Valley Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.95851816342143,38.1978186083629]},"properties":{"population":1063,"geoid":"16000US0683304","name":"Wallace, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.53733875293966,38.40429912077141]},"properties":{"population":571,"geoid":"16000US0684732","name":"West Point, CA"}}
+]}

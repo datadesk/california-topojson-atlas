@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.98141117375046,38.44265886107798]},"properties":{"population":1362,"geoid":"16000US0600996","name":"Allendale, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.15411568885416,38.070389921927024]},"properties":{"population":28088,"geoid":"16000US0605290","name":"Benicia, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.82753632723251,38.452592702811685]},"properties":{"population":19759,"geoid":"16000US0619402","name":"Dixon, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.90771971680907,38.352327930234964]},"properties":{"population":285,"geoid":"16000US0622146","name":"Elmira, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.03187026532723,38.25943876772631]},"properties":{"population":114101,"geoid":"16000US0623182","name":"Fairfield, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.16213783290536,38.260559626224776]},"properties":{"population":1572,"geoid":"16000US0631099","name":"Green Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.95227128993535,38.42026448838211]},"properties":{"population":2907,"geoid":"16000US0632340","name":"Hartley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.70336532156539,38.17614508458278]},"properties":{"population":8618,"geoid":"16000US0660984","name":"Rio Vista, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.00956800178169,38.247129220738174]},"properties":{"population":29379,"geoid":"16000US0675630","name":"Suisun City, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.9687066783585,38.35913270013646]},"properties":{"population":97943,"geoid":"16000US0681554","name":"Vacaville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.26378072163907,38.10761752449089]},"properties":{"population":120977,"geoid":"16000US0681666","name":"Vallejo, CA"}}
+]}

@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.12296682217122,37.567072025787496]},"properties":{"population":203,"geoid":"16000US0604730","name":"Bear Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.88871452888252,37.46718599433685]},"properties":{"population":768,"geoid":"16000US0607525","name":"Bootjack, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.06530325411481,37.812609972584276]},"properties":{"population":51,"geoid":"16000US0608716","name":"Buck Meadows, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.0936156872498,37.4371313432396]},"properties":{"population":794,"geoid":"16000US0612062","name":"Catheys Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.19911938164286,37.71056237174212]},"properties":{"population":38,"geoid":"16000US0616644","name":"Coulterville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.79903635872941,37.673562487133935]},"properties":{"population":268,"geoid":"16000US0622328","name":"El Portal, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6373453232381,37.47967118788635]},"properties":{"population":90,"geoid":"16000US0624218","name":"Fish Camp, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.12908032452532,37.75691733840138]},"properties":{"population":687,"geoid":"16000US0630900","name":"Greeley Hill, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.24196781871807,37.50338909895137]},"properties":{"population":61,"geoid":"16000US0634708","name":"Hornitos, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.33656711292218,37.64599741044952]},"properties":{"population":1030,"geoid":"16000US0639484","name":"Lake Don Pedro, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.96827481171385,37.48726567776375]},"properties":{"population":1351,"geoid":"16000US0645932","name":"Mariposa, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.94843052468921,37.55307808471665]},"properties":{"population":1396,"geoid":"16000US0647374","name":"Midpines, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.6396122730476,37.548232085017666]},"properties":{"population":196,"geoid":"16000US0683766","name":"Wawona, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.57789033225313,37.740752491020196]},"properties":{"population":1110,"geoid":"16000US0686912","name":"Yosemite Valley, CA"}}
+]}

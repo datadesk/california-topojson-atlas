@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.29513193251859,37.16547817814632]},"properties":{"population":1568,"geoid":"16000US0606616","name":"Big Pine, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.39745014673787,37.36764297073322]},"properties":{"population":3765,"geoid":"16000US0606798","name":"Bishop, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.02612439023171,36.3122908361666]},"properties":{"population":7,"geoid":"16000US0611600","name":"Cartago, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.58900498364947,36.268803726195614]},"properties":{"population":56,"geoid":"16000US0618030","name":"Darwin, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.41527271488192,37.386388195743066]},"properties":{"population":2760,"geoid":"16000US0619406","name":"Dixon Lane-Meadow Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.87469615365924,36.42769026358282]},"properties":{"population":127,"geoid":"16000US0628021","name":"Furnace Creek, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.38641746654459,35.89004021080353]},"properties":{"population":35,"geoid":"16000US0634405","name":"Homewood Canyon, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.21322314117431,36.827417517080356]},"properties":{"population":542,"geoid":"16000US0636350","name":"Independence, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.87204968511196,36.48462230959272]},"properties":{"population":15,"geoid":"16000US0637918","name":"Keeler, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.07770837182136,36.57734951936306]},"properties":{"population":1837,"geoid":"16000US0642580","name":"Lone Pine, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.54239528690255,37.418954127423255]},"properties":{"population":317,"geoid":"16000US0647013","name":"Mesa, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.00150287470242,36.27036169254316]},"properties":{"population":213,"geoid":"16000US0653490","name":"Olancha, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.8754951148666,35.81871215064501]},"properties":{"population":29,"geoid":"16000US0656294","name":"Pearsonville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.58197958266855,37.40668121427726]},"properties":{"population":533,"geoid":"16000US0663148","name":"Round Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.30557782308018,35.951017656636424]},"properties":{"population":13,"geoid":"16000US0671680","name":"Shoshone, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.2075516661808,35.83518462855004]},"properties":{"population":146,"geoid":"16000US0678050","name":"Tecopa, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.34489367801233,35.81498734771461]},"properties":{"population":37,"geoid":"16000US0680515","name":"Trona, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.33656617568283,35.87612834805307]},"properties":{"population":0,"geoid":"16000US0681925","name":"Valley Wells, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.45425390213109,37.35705119070414]},"properties":{"population":2661,"geoid":"16000US0684120","name":"West Bishop, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.38769793805325,37.27943109192064]},"properties":{"population":431,"geoid":"16000US0685551","name":"Wilkerson, CA"}}
+]}

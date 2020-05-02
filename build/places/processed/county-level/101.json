@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.54432241037888,38.910045605118555]},"properties":{"population":254,"geoid":"16000US0620900","name":"East Nicolaus, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.66243862889587,39.278803357305314]},"properties":{"population":8622,"geoid":"16000US0641936","name":"Live Oak, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.90790027435035,39.14043877735933]},"properties":{"population":405,"geoid":"16000US0646926","name":"Meridian, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.5728725154882,38.89809159671329]},"properties":{"population":166,"geoid":"16000US0651336","name":"Nicolaus, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.53102686220508,38.951762062082125]},"properties":{"population":406,"geoid":"16000US0660970","name":"Rio Oso, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.7055555694192,38.86714122573784]},"properties":{"population":321,"geoid":"16000US0662168","name":"Robbins, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.74923995090828,39.15565034739521]},"properties":{"population":2994,"geoid":"16000US0677378","name":"Sutter, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.51472228209113,38.92633240000117]},"properties":{"population":296,"geoid":"16000US0680560","name":"Trowbridge, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.63814662536274,39.135743431810354]},"properties":{"population":66388,"geoid":"16000US0686972","name":"Yuba City, CA"}}
+]}

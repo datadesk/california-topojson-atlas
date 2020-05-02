@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.98494994054533,38.89163628139457]},"properties":{"population":3499,"geoid":"16000US0603205","name":"Auburn Lake Trails, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.98719561790485,38.67369370833859]},"properties":{"population":19902,"geoid":"16000US0610256","name":"Cameron Park, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.68157748637456,38.74116126551218]},"properties":{"population":1799,"geoid":"16000US0610270","name":"Camino, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.87611300901736,38.74678444043845]},"properties":{"population":675,"geoid":"16000US0614450","name":"Cold Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.89463494077711,38.80261735521606]},"properties":{"population":673,"geoid":"16000US0614764","name":"Coloma, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.83906897631016,38.69203929479164]},"properties":{"population":11989,"geoid":"16000US0619220","name":"Diamond Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.04894144577632,38.675000503935934]},"properties":{"population":45599,"geoid":"16000US0621880","name":"El Dorado Hills, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.83563328925676,38.91117065524068]},"properties":{"population":2668,"geoid":"16000US0629350","name":"Georgetown, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.53543108258326,38.63569616159561]},"properties":{"population":1087,"geoid":"16000US0631302","name":"Grizzly Flats, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.7978675493772,38.73078318348134]},"properties":{"population":10860,"geoid":"16000US0657540","name":"Placerville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.59038740407509,38.75643318840106]},"properties":{"population":6905,"geoid":"16000US0658030","name":"Pollock Pines, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.93702375989271,38.66655325659201]},"properties":{"population":3865,"geoid":"16000US0671554","name":"Shingle Springs, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.98274568638591,38.93927762553749]},"properties":{"population":21814,"geoid":"16000US0673108","name":"South Lake Tahoe, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.14382776818275,39.06330503059703]},"properties":{"population":867,"geoid":"16000US0677728","name":"Tahoma, CA"}}
+]}

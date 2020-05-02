@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.80088714320108,38.78553006157365]},"properties":{"population":155,"geoid":"16000US0601228","name":"Alpine Village, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.0491462331014,38.47216172545838]},"properties":{"population":58,"geoid":"16000US0604716","name":"Bear Valley, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.06404583815038,38.69300473537997]},"properties":{"population":76,"geoid":"16000US0638646","name":"Kirkwood, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.8227374946465,38.684001018500254]},"properties":{"population":143,"geoid":"16000US0645988","name":"Markleeville, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.80326413331785,38.81028836646447]},"properties":{"population":278,"geoid":"16000US0647086","name":"Mesa Vista, CA"}}
+]}

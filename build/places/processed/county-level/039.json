@@ -1,0 +1,17 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.71930152057787,37.36522716627396]},"properties":{"population":2461,"geoid":"16000US0600478","name":"Ahwahnee, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.56692402158218,37.32813557213774]},"properties":{"population":500,"geoid":"16000US0604198","name":"Bass Lake, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.88927531521233,36.95958025535079]},"properties":{"population":8971,"geoid":"16000US0607379","name":"Bonadelle Ranchos-Madera Ranchos, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.248521906138,37.11151631847237]},"properties":{"population":18533,"geoid":"16000US0613294","name":"Chowchilla, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.69995470225358,37.25263646571894]},"properties":{"population":1643,"geoid":"16000US0614288","name":"Coarsegold, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.19366698279022,37.077478124355004]},"properties":{"population":1876,"geoid":"16000US0623210","name":"Fairmead, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.11480243667572,36.87986501896799]},"properties":{"population":239,"geoid":"16000US0640872","name":"La Vina, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.07633762016616,36.964896185737764]},"properties":{"population":64362,"geoid":"16000US0645022","name":"Madera, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.07988739734775,37.01228543973615]},"properties":{"population":9946,"geoid":"16000US0645050","name":"Madera Acres, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.729268400332,37.40305338334509]},"properties":{"population":319,"geoid":"16000US0651470","name":"Nipinnawasee, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.64824644149982,37.334270017798154]},"properties":{"population":3424,"geoid":"16000US0652764","name":"Oakhurst, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.02175201080378,36.94624332070401]},"properties":{"population":2493,"geoid":"16000US0655751","name":"Parksdale, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-120.0481970791921,36.92927095166426]},"properties":{"population":1853,"geoid":"16000US0655842","name":"Parkwood, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.79675760446756,36.90410945741279]},"properties":{"population":896,"geoid":"16000US0662625","name":"Rolling Hills, CA"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.77231233459523,37.188562446906985]},"properties":{"population":5647,"geoid":"16000US0686878","name":"Yosemite Lakes, CA"}}
+]}
