@@ -6,7 +6,7 @@ default: build \
 	build/roads/processed/state-level/06.json \
 	build/roads/processed/county-level/%.json \
 	build/places/processed/state-level/06.json \
-	build/place/processed/county-level/%.json \
+	build/places/processed/county-level/%.json \
 	build/combined/%.json
 
 build:
@@ -60,7 +60,7 @@ build/places/processed/state-level/06.json:
 		-rename-fields population=B01003001 \
 		-o format=geojson build/places/processed/state-level/06.json
 
-build/place/processed/county-level/%.json:
+build/places/processed/county-level/%.json:
 	find build/counties/processed/county-level/ -name '*.json' -print0 | \
 	sed --expression='s|build/counties/processed/county-level/||g' | \
 	xargs -0 -I % mapshaper build/places/processed/state-level/06.json \
