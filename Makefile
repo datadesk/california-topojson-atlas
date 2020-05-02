@@ -76,7 +76,7 @@ build/combined/%.json:
 		combine-files \
 		-rename-layers county,roads,places \
 		-o ./build/combined/% format=topojson
-	cp combined/* output/
+	cp build/combined/* output/
 
 clean:
 	rm -rf build/
