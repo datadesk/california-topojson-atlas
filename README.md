@@ -2,6 +2,10 @@
 
 Simple maps of California's 58 counties
 
+### Usage
+
+* In the browser [using d3 and SVG](https://observablehq.com/@datadesk/base-maps-for-all-58-california-counties)
+
 ### Data dictionary
 
 The [`output`](output/) directory contains a topojson file for each of the state's 58 counties. The files are named using the county's [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) and contain three layers:
