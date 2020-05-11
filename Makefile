@@ -81,7 +81,7 @@ build/combined/%.json:
 		combine-files \
 		-rename-layers county,roads,places \
 		-o ./build/combined/% format=topojson
-	cp build/combined/* output/
+	rm build/combined/075.json
 
 build/combined/075.json:
 	mapshaper input/san-francisco.shp -o format=geojson input/san-francisco.json
