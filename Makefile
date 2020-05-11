@@ -1,3 +1,5 @@
+.PHONY: dist
+
 default: build \
 	build/counties/raw/cb_2017_us_county_5m.shp \
 	build/counties/processed/state-level/06.json \
@@ -7,7 +9,9 @@ default: build \
 	build/roads/processed/county-level/%.json \
 	build/places/processed/state-level/06.json \
 	build/places/processed/county-level/%.json \
-	build/combined/%.json
+	build/combined/%.json \
+	build/combined/075.json \
+	dist
 
 build:
 	mkdir -p build/counties
@@ -51,6 +55,7 @@ build/roads/processed/county-level/%.json:
 	sed --expression='s|build/counties/processed/county-level/||g' | \
 	xargs -0 -I % mapshaper build/roads/processed/state-level/06.json \
 		-clip build/counties/processed/county-level/% \
+		-filter-fields type \
 		-o build/roads/processed/county-level/% format=geojson
 
 build/places/processed/state-level/06.json:
@@ -76,6 +81,18 @@ build/combined/%.json:
 		combine-files \
 		-rename-layers county,roads,places \
 		-o ./build/combined/% format=topojson
+	cp build/combined/* output/
+
+build/combined/075.json:
+	mapshaper input/san-francisco.shp -o format=geojson input/san-francisco.json
+	mapshaper -i input/san-francisco.json \
+		build/roads/processed/county-level/075.json \
+		build/places/processed/county-level/075.json \
+		combine-files \
+		-rename-layers county,roads,places \
+		-o ./build/combined/075.json format=topojson
+
+dist:
 	cp build/combined/* output/
 
 clean:
