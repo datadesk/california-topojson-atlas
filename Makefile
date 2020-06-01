@@ -11,6 +11,8 @@ default: build \
 	build/places/processed/county-level/%.json \
 	build/combined/%.json \
 	build/combined/075.json \
+	build/combined/los-angeles-countywide-statistical-areas.json \
+	build/combined/los-angeles-countywide-statistical-areas-contiguous.json \
 	dist
 
 build:
@@ -91,6 +93,23 @@ build/combined/075.json:
 		combine-files \
 		-rename-layers county,roads,places \
 		-o ./build/combined/075.json format=topojson
+
+build/combined/los-angeles-countywide-statistical-areas.json:
+	mapshaper input/los-angeles-countywide-statistical-areas.json -simplify 10% -o input/los-angeles-countywide-statistical-areas-simplified.json
+	mapshaper -i input/los-angeles-countywide-statistical-areas-simplified.json \
+		build/roads/processed/county-level/037.json \
+		build/places/processed/county-level/037.json \
+		combine-files \
+		-rename-layers county,roads,places \
+		-o ./build/combined/los-angeles-countywide-statistical-areas.json format=topojson
+
+build/combined/los-angeles-countywide-statistical-areas-contiguous.json:
+	mapshaper -i input/los-angeles-countywide-statistical-areas-simplified-contiguous.json \
+		build/roads/processed/county-level/037.json \
+		build/places/processed/county-level/037.json \
+		combine-files \
+		-rename-layers county,roads,places \
+		-o ./build/combined/los-angeles-countywide-statistical-areas-contiguous.json format=topojson
 
 dist:
 	cp build/combined/* output/
