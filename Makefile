@@ -9,6 +9,9 @@ default: build \
 	build/roads/processed/county-level/%.json \
 	build/places/processed/state-level/06.json \
 	build/places/processed/county-level/%.json \
+	build/zcta/raw/cb_2019_us_zcta510_500k.shp \
+	build/zcta/processed/state-level/06.json \
+	build/zcta/processed/county-level/%.json \
 	build/combined/%.json \
 	build/combined/075.json \
 	build/combined/los-angeles-countywide-statistical-areas.json \
@@ -16,36 +19,21 @@ default: build \
 	dist
 
 build:
-	mkdir -p build/counties
-	mkdir -p build/counties/raw
+	mkdir -p build/counties/
+	mkdir -p build/counties/raw/
 	mkdir -p build/counties/processed/state-level/
 	mkdir -p build/counties/processed/county-level/
-	mkdir -p build/roads
-	mkdir -p build/roads/raw
+	mkdir -p build/roads/
+	mkdir -p build/roads/raw/
 	mkdir -p build/roads/processed/state-level/
 	mkdir -p build/roads/processed/county-level/
 	mkdir -p build/places/processed/state-level/
 	mkdir -p build/places/processed/county-level/
-	mkdir -p build/zcta/raw
-	mkdir -p build/zcta/processed/state-level
-	mkdir -p build/zcta/processed/county-level
+	mkdir -p build/zcta/raw/
+	mkdir -p build/zcta/processed/state-level/
+	mkdir -p build/zcta/processed/county-level/
 	mkdir -p build/combined/
 
-
-build/zcta/raw/cb_2019_us_zcta510_500k.shp:
-	unzip input/cb_2019_us_zcta510_500k.zip -d build/zcta/raw
-
-build/zcta/processed/state-level/06.json:
-	mapshaper build/zcta/raw/cb_2019_us_zcta510_500k.shp \
-		-clip input/california.geojson \
-		-o build/zcta/processed/state-level/06.json format=geojson
-
-build/zcta/processed/county-level/%.json:
-	find build/counties/processed/county-level/ -name '*.json' -print0 | \
-	sed --expression='s|build/counties/processed/county-level/||g' | \
-	xargs -0 -I % mapshaper build/zcta/processed/state-level/06.json \
-		-clip build/counties/processed/county-level/% \
-		-o build/zcta/processed/county-level/% format=geojson
 
 build/counties/raw/cb_2017_us_county_5m.shp:
 	unzip input/cb_2017_us_county_5m -d build/counties/raw
@@ -93,14 +81,32 @@ build/places/processed/county-level/%.json:
 		-clip build/counties/processed/county-level/% \
 		-o build/places/processed/county-level/% format=geojson
 
+build/zcta/raw/cb_2019_us_zcta510_500k.shp:
+	unzip input/cb_2019_us_zcta510_500k.zip -d build/zcta/raw
+
+build/zcta/processed/state-level/06.json:
+	mapshaper build/zcta/raw/cb_2019_us_zcta510_500k.shp \
+		-clip input/california.geojson \
+		-filter-fields ZCTA5CE10 \
+		-rename-fields zcta5=ZCTA5CE10 \
+		-o build/zcta/processed/state-level/06.json format=geojson
+
+build/zcta/processed/county-level/%.json:
+	find build/counties/processed/county-level/ -name '*.json' -print0 | \
+	sed --expression='s|build/counties/processed/county-level/||g' | \
+	xargs -0 -I % mapshaper build/zcta/processed/state-level/06.json \
+		-clip build/counties/processed/county-level/% \
+		-o build/zcta/processed/county-level/% format=geojson
+
 build/combined/%.json:
 	find build/counties/processed/county-level/ -name '*.json' -print0 | \
 	sed --expression='s|build/counties/processed/county-level/||g' | \
 	xargs -0 -I % mapshaper -i build/counties/processed/county-level/% \
 		build/roads/processed/county-level/% \
 		build/places/processed/county-level/% \
+		build/zcta/processed/county-level/% \
 		combine-files \
-		-rename-layers county,roads,places \
+		-rename-layers county,roads,places,zcta \
 		-o ./build/combined/% format=topojson
 	rm build/combined/075.json
 
@@ -109,8 +115,9 @@ build/combined/075.json:
 	mapshaper -i input/san-francisco.json \
 		build/roads/processed/county-level/075.json \
 		build/places/processed/county-level/075.json \
+		build/zcta/processed/county-level/075.json \
 		combine-files \
-		-rename-layers county,roads,places \
+		-rename-layers county,roads,places,zcta \
 		-o ./build/combined/075.json format=topojson
 
 build/combined/los-angeles-countywide-statistical-areas.json:
