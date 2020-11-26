@@ -40,6 +40,13 @@ build/zcta/processed/state-level/06.json:
 		-clip input/california.geojson \
 		-o build/zcta/processed/state-level/06.json format=geojson
 
+build/zcta/processed/county-level/%.json:
+	find build/counties/processed/county-level/ -name '*.json' -print0 | \
+	sed --expression='s|build/counties/processed/county-level/||g' | \
+	xargs -0 -I % mapshaper build/zcta/processed/state-level/06.json \
+		-clip build/counties/processed/county-level/% \
+		-o build/zcta/processed/county-level/% format=geojson
+
 build/counties/raw/cb_2017_us_county_5m.shp:
 	unzip input/cb_2017_us_county_5m -d build/counties/raw
 
