@@ -27,13 +27,18 @@ build:
 	mkdir -p build/places/processed/state-level/
 	mkdir -p build/places/processed/county-level/
 	mkdir -p build/zcta/raw
-	mkdir -p build/zcta/state-level
-	mkdir -p build/zcta/county-level
+	mkdir -p build/zcta/processed/state-level
+	mkdir -p build/zcta/processed/county-level
 	mkdir -p build/combined/
 
 
 build/zcta/raw/cb_2019_us_zcta510_500k.shp:
 	unzip input/cb_2019_us_zcta510_500k.zip -d build/zcta/raw
+
+build/zcta/processed/state-level/06.json:
+	mapshaper build/zcta/raw/cb_2019_us_zcta510_500k.shp \
+		-clip input/california.geojson \
+		-o build/zcta/processed/state-level/06.json format=geojson
 
 build/counties/raw/cb_2017_us_county_5m.shp:
 	unzip input/cb_2017_us_county_5m -d build/counties/raw
