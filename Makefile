@@ -26,7 +26,14 @@ build:
 	mkdir -p build/roads/processed/county-level/
 	mkdir -p build/places/processed/state-level/
 	mkdir -p build/places/processed/county-level/
+	mkdir -p build/zcta/raw
+	mkdir -p build/zcta/state-level
+	mkdir -p build/zcta/county-level
 	mkdir -p build/combined/
+
+
+build/zcta/raw/cb_2019_us_zcta510_500k.shp:
+	unzip input/cb_2019_us_zcta510_500k.zip -d build/zcta/raw
 
 build/counties/raw/cb_2017_us_county_5m.shp:
 	unzip input/cb_2017_us_county_5m -d build/counties/raw
